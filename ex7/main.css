@@ -12,4 +12,6 @@
 
 #section {
     padding: 5px;
+    height: 100px;
+    -webkit-transition: all 3s;
 }
